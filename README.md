@@ -22,3 +22,5 @@
   <a href="mailto:joaocezarino2001@gmail.com?subject=Contato%20via%20GitHub" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-cezarino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+(https://github.com/JvCezarino/JvCezarino/blob/output/github-contribution-grid-snake.svg)
